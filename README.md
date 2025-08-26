@@ -8,7 +8,7 @@ This is a powerful and modern Chrome extension designed for students of my colle
 * **Subject-wise Breakdown**: View the attendance percentage and classes needed for each individual subject.
 * **One-Click Action**: Simply click the extension's icon on your homepage, and it will automatically navigate to the attendance page, perform the calculation, and display the results without you needing to do anything else.
 
-### How to Install (for Google Chrome) 🚀
+### How to Install (for Google Chrome) <StackIcon name="chrome" />
 Since this is a free extension not available on the Chrome Web Store, you can install it manually by "sideloading." It only takes a minute!
 
 1.  **Download the ZIP file**: Click the green **`<> Code`** button and select **`Download ZIP`**.
@@ -18,3 +18,5 @@ Since this is a free extension not available on the Chrome Web Store, you can in
 5.  **Load the Extension**: Click the **`Load unpacked`** button and select the unzipped `attendance-calculator` folder.
 
 That's it! The extension will now appear in your Chrome toolbar and is ready to use.
+### Download Attendance Calculator ZIP:
+https://drive.google.com/file/d/10J3esxoA1d0qPoJe6zgWpw9I_RqMS-tA/view?usp=sharing
