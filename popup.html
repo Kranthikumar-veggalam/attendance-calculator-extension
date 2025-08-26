@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Attendance Calculator</title>
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #121212;
+      color: #e0e0e0;
+      margin: 0;
+      padding: 0;
+      width: 380px;
+    }
+    .container {
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+    .header {
+      text-align: center;
+      padding-bottom: 10px;
+    }
+    .header h1 {
+      font-size: 1.5em;
+      color: #bb86fc;
+      margin: 0;
+    }
+    .header p {
+      font-size: 0.9em;
+      color: #888;
+      margin: 5px 0 0;
+    }
+    .button-container {
+      width: 100%;
+    }
+    button {
+      background: linear-gradient(45deg, #6200ee, #bb86fc);
+      color: white;
+      border: none;
+      padding: 12px 20px;
+      font-size: 1.1em;
+      cursor: pointer;
+      border-radius: 8px;
+      width: 100%;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+      transition: all 0.3s ease;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    button:hover {
+      background: linear-gradient(45deg, #bb86fc, #6200ee);
+      transform: translateY(-2px);
+      box-shadow: 0 6px 15px rgba(0,0,0,0.6);
+    }
+    .status-message {
+      text-align: center;
+      font-style: italic;
+      color: #cf6679;
+      font-size: 0.9em;
+      min-height: 20px;
+    }
+    .results-container {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      width: 100%;
+    }
+    .overall-card, .subject-card {
+      background-color: #1f1f1f;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      border: 1px solid #333;
+    }
+    .overall-card {
+      border: 2px solid #bb86fc;
+    }
+    .overall-card h2 {
+      margin: 0;
+      font-size: 1.6em;
+      font-weight: 700;
+      color: #bb86fc;
+      text-align: center;
+    }
+    .overall-card .stats {
+      display: flex;
+      justify-content: space-around;
+      margin-top: 5px;
+      font-size: 0.9em;
+    }
+    .overall-card .stats p {
+      margin: 0;
+      font-weight: 500;
+    }
+    .overall-card .percentage-text {
+      font-size: 2.2em;
+      font-weight: 800;
+      text-align: center;
+      margin-top: 10px;
+    }
+    .overall-card .percentage-good { color: #03dac6; }
+    .overall-card .percentage-bad { color: #cf6679; }
+    .overall-card .periods-needed {
+      font-size: 1.1em;
+      font-weight: 600;
+      text-align: center;
+      margin-top: 10px;
+      color: #e0e0e0;
+    }
+
+    .subject-title {
+      font-weight: bold;
+      font-size: 1.1em;
+      color: #e0e0e0;
+      border-bottom: 1px solid #333;
+      padding-bottom: 5px;
+    }
+    .details {
+      font-size: 0.9em;
+      color: #aaa;
+    }
+    .details span {
+      font-weight: bold;
+      color: #e0e0e0;
+    }
+    .percentage-text {
+      font-size: 1em;
+      font-weight: 600;
+      padding: 5px 0;
+    }
+    .percentage-good { color: #03dac6; }
+    .percentage-bad { color: #cf6679; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Attendance Report</h1>
+      <p>Calculated from your college portal</p>
+    </div>
+    <div class="button-container">
+      <button id="calculateBtn">Calculate</button>
+    </div>
+    <div id="status" class="status-message"></div>
+    <div id="results" class="results-container"></div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
