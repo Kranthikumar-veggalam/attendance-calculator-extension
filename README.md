@@ -51,7 +51,8 @@ Here are some screenshots of the extension in action:
 * **Support**: For any issues or suggestions, feel free to submit an issue on this GitHub repository. Email: veggalamkranthi@gmail.com
   
 ### Connect with me
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="40" height="40"> My LinkedIn Profile](https://www.linkedin.com/in/kranthikumarveggalam)
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="70" height="50"> My LinkedIn Profile](https://www.linkedin.com/in/kranthikumarveggalam)
 ---
 ### ONLY FOR IARE Students
 **Thank you for using this extension!**
