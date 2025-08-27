@@ -25,7 +25,10 @@ That's it! The extension will now appear in your Chrome toolbar and is ready to 
 ### Download Attendance Calculator ZIP:
 Link: [https://drive.google.com/drive/folders/10-Vt83VhuqgQBEKZs_fsZ3izEb9-B_gJ?usp=sharing]
 ### Refer to this Video :
-Link: []
+
+https://github.com/user-attachments/assets/cfefaceb-42da-41f9-9199-bfcdca58c2d2
+
+
 
 ### Screenshots
 Here are some screenshots of the extension in action:
