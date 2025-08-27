@@ -17,6 +17,8 @@ Since this is a free extension not available on the Chrome Web Store, you can in
 4.  **Enable Developer Mode**: In the top-right corner, flip the toggle switch to turn on **Developer mode**.
 5.  **Load the Extension**: Click the **`Load unpacked`** button and select the unzipped `attendance-calculator` folder.
 
+### ONLY FOR IARE Students
+
 That's it! The extension will now appear in your Chrome toolbar and is ready to use.# Attendance Calculator Chrome Extension 👨‍🎓
 ### Download Attendance Calculator ZIP:
 Link: [https://drive.google.com/file/d/10J3esxoA1d0qPoJe6zgWpw9I_RqMS-tA/view?usp=sharing]
@@ -29,25 +31,26 @@ Here are some screenshots of the extension in action:
 
 ![Login Page]
 
-<img width="1919" height="1079" alt="Screenshot 2025-08-26 204308" src="https://github.com/user-attachments/assets/126e134e-78bc-4d94-931b-05d7dbcb92ef" />
+<img width="1519" height="679" alt="Screenshot 2025-08-26 204308" src="https://github.com/user-attachments/assets/126e134e-78bc-4d94-931b-05d7dbcb92ef" />
 
 
 **Homepage with Extension Popup**
 
 ![Homepage with Extension Popup]
-<img width="1919" height="1079" alt="Screenshot 2025-08-26 204327" src="https://github.com/user-attachments/assets/7cbc400c-8e84-4de2-9b07-035633b3ef80" />
+<img width="1519" height="679" alt="Screenshot 2025-08-26 204327" src="https://github.com/user-attachments/assets/7cbc400c-8e84-4de2-9b07-035633b3ef80" />
 
 **Attendance Report with Calculated Data**
 
 ![Attendance Report with Calculated Data]
-<img width="1919" height="1079" alt="Screenshot 2025-08-26 204341" src="https://github.com/user-attachments/assets/e89c5e23-a1d9-4d17-8db4-65d11ca11245" />
+<img width="1519" height="679" alt="Screenshot 2025-08-26 204341" src="https://github.com/user-attachments/assets/621e0c78-7e49-498a-b557-6a5f27f8c32c" />
+
 
 ### Additional Information
 * **College Website URL**: This extension is specifically designed for `https://samvidha.iare.ac.in/`.
 * **Support**: For any issues or suggestions, feel free to submit an issue on this GitHub repository.Email: veggalamkranthi@gmail.com
-* 
+  
 ### Connect with me
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="40" height="40"> My LinkedIn Profile](https://www.linkedin.com/in/kranthikumarveggalam)
 ---
-
+### ONLY FOR IARE Students
 **Thank you for using this extension!**
