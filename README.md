@@ -28,7 +28,8 @@ Here are some screenshots of the extension in action:
 **Samvidha Login Page**
 
 ![Login Page]
-<img width="1919" height="1079" alt="Screenshot 2025-08-26 204341" src="https://github.com/user-attachments/assets/e89c5e23-a1d9-4d17-8db4-65d11ca11245" />
+
+<img width="1919" height="1079" alt="Screenshot 2025-08-26 204308" src="https://github.com/user-attachments/assets/126e134e-78bc-4d94-931b-05d7dbcb92ef" />
 
 
 **Homepage with Extension Popup**
@@ -39,14 +40,14 @@ Here are some screenshots of the extension in action:
 **Attendance Report with Calculated Data**
 
 ![Attendance Report with Calculated Data]
-<img width="1919" height="1079" alt="Screenshot 2025-08-26 204308" src="https://github.com/user-attachments/assets/84eddbb2-bb4e-467c-92e6-fd26d16d293d" />
+<img width="1919" height="1079" alt="Screenshot 2025-08-26 204341" src="https://github.com/user-attachments/assets/e89c5e23-a1d9-4d17-8db4-65d11ca11245" />
 
 ### Additional Information
 * **College Website URL**: This extension is specifically designed for `https://samvidha.iare.ac.in/`.
 * **Support**: For any issues or suggestions, feel free to submit an issue on this GitHub repository.Email: veggalamkranthi@gmail.com
 * 
 ### Connect with me
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="20" height="20"> My LinkedIn Profile](https://www.linkedin.com/in/kranthikumarveggalam)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="40" height="40"> My LinkedIn Profile](https://www.linkedin.com/in/kranthikumarveggalam)
 ---
 
 **Thank you for using this extension!**
