@@ -58,4 +58,4 @@ Here are some screenshots of the extension in action:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="70" height="50"> My LinkedIn Profile](https://www.linkedin.com/in/kranthikumarveggalam)
 ---
 ### ONLY FOR IARE Students
-**Thank you for using this extension!**
+**Thank you for using this extension!Stay tuned for final Chrome Extension**
