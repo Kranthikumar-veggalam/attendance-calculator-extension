@@ -31,18 +31,18 @@ Here are some screenshots of the extension in action:
 
 ![Login Page]
 
-<img width="1119" height="279" alt="Screenshot 2025-08-26 204308" src="https://github.com/user-attachments/assets/126e134e-78bc-4d94-931b-05d7dbcb92ef" />
+<img width="519" height="379" alt="Screenshot 2025-08-26 204308" src="https://github.com/user-attachments/assets/126e134e-78bc-4d94-931b-05d7dbcb92ef" />
 
 
 **Homepage with Extension Popup**
 
 ![Homepage with Extension Popup]
-<img width="1119" height="279" alt="Screenshot 2025-08-26 204327" src="https://github.com/user-attachments/assets/7cbc400c-8e84-4de2-9b07-035633b3ef80" />
+<img width="519" height="379" alt="Screenshot 2025-08-26 204327" src="https://github.com/user-attachments/assets/7cbc400c-8e84-4de2-9b07-035633b3ef80" />
 
 **Attendance Report with Calculated Data**
 
 ![Attendance Report with Calculated Data]
-<img width="1119" height="279" alt="Screenshot 2025-08-26 204341" src="https://github.com/user-attachments/assets/621e0c78-7e49-498a-b557-6a5f27f8c32c" />
+<img width="519" height="379" alt="Screenshot 2025-08-26 204341" src="https://github.com/user-attachments/assets/621e0c78-7e49-498a-b557-6a5f27f8c32c" />
 
 
 ### Additional Information
