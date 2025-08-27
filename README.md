@@ -8,15 +8,29 @@ This is a powerful and modern Chrome extension designed for students of my colle
 * **Subject-wise Breakdown**: View the attendance percentage and classes needed for each individual subject.
 * **One-Click Action**: Simply click the extension's icon on your homepage, and it will automatically navigate to the attendance page, perform the calculation, and display the results without you needing to do anything else.
 
-### How to Install (for Google Chrome) <StackIcon name="chrome" />
+### How to Install (for Google Chrome) 🚀
 Since this is a free extension not available on the Chrome Web Store, you can install it manually by "sideloading." It only takes a minute!
 
-1.  **Download the ZIP file**: Click the green **`<> Code`** button and select **`Download ZIP`**.
+1.  **Download the ZIP file**: 📥 Download the extension from this Google Drive link
 2.  **Unzip the folder**: Unzip the downloaded file to a permanent, accessible location on your computer (e.g., your Desktop or Documents folder).
 3.  **Open Chrome Extensions**: In your Chrome browser, type `chrome://extensions` in the address bar and press Enter.
 4.  **Enable Developer Mode**: In the top-right corner, flip the toggle switch to turn on **Developer mode**.
 5.  **Load the Extension**: Click the **`Load unpacked`** button and select the unzipped `attendance-calculator` folder.
 
-That's it! The extension will now appear in your Chrome toolbar and is ready to use.
+That's it! The extension will now appear in your Chrome toolbar and is ready to use.# Attendance Calculator Chrome Extension 👨‍🎓
 ### Download Attendance Calculator ZIP:
-https://drive.google.com/file/d/10J3esxoA1d0qPoJe6zgWpw9I_RqMS-tA/view?usp=sharing
+Link: [https://drive.google.com/file/d/10J3esxoA1d0qPoJe6zgWpw9I_RqMS-tA/view?usp=sharing]
+### Refer to this Video :
+Link: []
+
+### Screenshots
+Here are some screenshots of the extension in action:
+
+**Login Page**
+![Login Page](https://storage.googleapis.com/g-e8067b5b2c751296996d.g-d446a6f6990d1f70a599.appspot.com/Screenshot%202025-08-26%20204308.png)
+
+**Homepage with Extension Popup**
+![Homepage with Extension Popup](https://storage.googleapis.com/g-e8067b5b2c751296996d.g-d446a6f6990d1f70a599.appspot.com/Screenshot%202025-08-26%20204327.jpg)
+
+**Attendance Report with Calculated Data**
+![Attendance Report with Calculated Data](https://storage.googleapis.com/g-e8067b5b2c751296996d.g-d446a6f6990d1f70a599.appspot.com/Screenshot%202025-08-26%20204341.jpg)
